@@ -20,7 +20,7 @@ To run NewsBharati locally, follow these steps:
    ```
 2. **Navigate to the project directory**:
    ```sh
-   cd newsbharati
+   cd NewsBharati-main
    ```
 3. **Install the necessary dependencies**:
    ```sh
