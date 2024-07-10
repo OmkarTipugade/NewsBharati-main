@@ -61,7 +61,7 @@ NewsBharati fetches news articles from a news API. Ensure you have a valid API k
 
 Include some screenshots of your project to show what it looks like.
 
-![Screenshot1](https://drive.google.com/drive/u/0/recent)
+![Screenshot1](https://drive.google.com/file/d/1O9XL4JPwBbD1UXwdFwkNLFEsli34lS4k/view?usp=sharing)
 
 ## Contributing
 
