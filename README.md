@@ -10,6 +10,9 @@ NewsBharati is a news application built using React.js. It fetches and displays 
 - Search functionality to find specific news articles.
 - Interactive user interface.
 
+![Screenshot1](https://github.com/OmkarTipugade/NewsBharati-main/assets/113380425/ad00c176-a2d3-4244-a2a1-4848ebf9dbf8)
+
+
 ## Installation
 
 To run NewsBharati locally, follow these steps:
